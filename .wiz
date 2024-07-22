@@ -1,0 +1,8 @@
+ignore:
+  vulnerabilities:
+    CVE-2024-3817:
+      vulns/go.mod:
+        reason: BY_DESIGN
+        expires: 2024-08-01
+    CVE-2024-6257:
+      vulns/go.mod: {}
