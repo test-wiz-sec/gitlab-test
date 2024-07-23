@@ -8,4 +8,4 @@ ignore:
       vulns/go.mod: {}
   iac:
     T-IAC-Rule-5e13786a-cddc-3266-8c85-29b46e0a554d:
-      docker/Dockerfile2
+      docker/Dockerfile2: {}
