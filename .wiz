@@ -7,7 +7,7 @@ ignore:
     CVE-2024-6257:
       /vulns/go.mod:
         reason: BY_DESIGN
-        expires: 2024-08-01T00:00:00Z
+        expires: 2024-07-22T00:00:00Z
   iac:
     2e35fea5-91d3-4a9b-b483-1b786827b170:
       /docker/Dockerfile2: {}
