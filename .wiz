@@ -5,7 +5,7 @@ ignore:
         reason: BY_DESIGN
         expires: 2024-08-01T00:00:00Z
     CVE-2024-6257:
-      /vulns/go.mod1:
+      /vulns/go.mod:
         reason: BY_DESIGN
         expires: 2024-08-01T00:00:00Z
   iac:
