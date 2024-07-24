@@ -3,13 +3,11 @@ ignore:
     CVE-2024-3817-1:
       /vulns/go.mod:
         reason: BY_DESIGN
-        expires: 2024-08-01T00:00:00Z
+        expires: 2024-07-22T00:00:00Z
     ALL:
       /vulns/go.mod:
         reason: BY_DESIGN
-        expires: 2024-07-22T00:00:00Z
+        expires: 2024-08-01T00:00:00Z
   iac:
     ALL:
-      /docker/Dockerfile2:
-        reason: BY_DESIGN
-        expires: 2024-07-22T00:00:00Z
+      /docker/Dockerfile2: {}
