@@ -1,19 +1,13 @@
 ignore:
   vulnerabilities:
-    CVE-2024-3817:
+    CVE-2024-3817-1:
       /vulns/go.mod:
         reason: BY_DESIGN
         expires: 2024-08-01T00:00:00Z
-    CVE-2024-6257:
+    CVE-2024-6257-2:
       /vulns/go.mod1:
         reason: BY_DESIGN
         expires: 2024-08-01T00:00:00Z
   iac:
     2e35fea5-91d3-4a9b-b483-1b786827b170:
-      /docker/Dockerfile2: {}
-    7ec67672-d8be-49c9-9064-196e35dcadcf:
-      /docker/Dockerfile2: {}
-    8a64a556-adef-4134-93c4-7ba196c69370:
-      /docker/Dockerfile2: {}
-    3a970474-84c0-4810-b7b7-a33dc31309d0:
       /docker/Dockerfile2: {}
