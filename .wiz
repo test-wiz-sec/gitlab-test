@@ -4,10 +4,12 @@ ignore:
       /vulns/go.mod:
         reason: BY_DESIGN
         expires: 2024-08-01T00:00:00Z
-    CVE-2024-6257:
+    ALL:
       /vulns/go.mod:
         reason: BY_DESIGN
         expires: 2024-07-22T00:00:00Z
   iac:
-    6a22b7bb-82e3-4167-88a6-6dded6fc6cba:
-      /docker/Dockerfile2: {}
+    ALL:
+      /docker/Dockerfile2:
+        reason: BY_DESIGN
+        expires: 2024-07-22T00:00:00Z
