@@ -1,5 +1,5 @@
 ignore:
-  vulnerabilities:
+  vvulnerabilities:
     CVE-2024-3817:
       /vulns/go.mod:
         reason: BY_DESIGN
