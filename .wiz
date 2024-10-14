@@ -1,0 +1,4 @@
+ignore:
+  vulnerabilities:
+    ALL:
+      **/go.mod: {}
