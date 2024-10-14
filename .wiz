@@ -1,4 +1,4 @@
 ignore:
   vulnerabilities:
     ALL:
-      **/go.mod: {}
+      "**/go.mod": {}
