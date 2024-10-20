@@ -1,7 +1,8 @@
 ignore:
   vulnerabilities:
-    CVE-1234:
-      /vulns/go.mod:
-        reason: "FALSE_POSITIVE"
     ALL:
-      /test/**/*: {}
+      /vulns/go.mod: {}
+  data:
+    BUILTIN-125:
+      /data/*: {}
+  
