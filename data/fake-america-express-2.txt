@@ -2,6 +2,12 @@ This data is fake and is used to test data detection capabilities. Ping jfidalgo
 [
   {
     "CreditCard": {
+      "IssuingNetwork": "Diners",
+      "CardNumber": 1234567890123456,
+    }
+  }
+  {
+    "CreditCard": {
       "IssuingNetwork": "American Express",
       "CardNumber": 347897394600432
     }
