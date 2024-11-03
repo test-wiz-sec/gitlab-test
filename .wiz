@@ -1,3 +1,0 @@
-ignore:
-  global_paths:
-    '**/*': {}
