@@ -421,7 +421,7 @@ require (
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.18.0 // indirect
 	github.com/hashicorp/errwrap v1.1.0 // indirect
 	github.com/hashicorp/go-cleanhttp v0.5.2 // indirect
-	github.com/hashicorp/go-getter v1.7.0 // indirect
+	github.com/hashicorp/go-getter v1.7.5 // indirect
 	github.com/hashicorp/go-immutable-radix v1.3.1 // indirect
 	github.com/hashicorp/go-memdb v1.3.4 // indirect
 	github.com/hashicorp/go-safetemp v1.0.0 // indirect
@@ -505,7 +505,7 @@ require (
 	github.com/mitchellh/go-testing-interface v1.14.1 // indirect
 	github.com/mitchellh/go-wordwrap v1.0.1 // indirect
 	github.com/mitchellh/reflectwalk v1.0.2 // indirect
-	github.com/moby/buildkit v0.10.4 // indirect
+	github.com/moby/buildkit v0.12.5 // indirect
 	github.com/moby/pubsub v1.0.0 // indirect
 	github.com/moby/spdystream v0.2.0 // indirect
 	github.com/moby/swarmkit/v2 v2.0.0-20230119195359-904c221ac281 // indirect
@@ -525,7 +525,7 @@ require (
 	github.com/olekukonko/tablewriter v0.0.5 // indirect
 	github.com/onsi/ginkgo/v2 v2.10.0 // indirect
 	github.com/open-policy-agent/opa v0.50.1 // indirect
-	github.com/opencontainers/runc v1.1.5 // indirect
+	github.com/opencontainers/runc v1.1.14 // indirect
 	github.com/opentracing/opentracing-go v1.2.1-0.20220228012449-10b1cf09e00b // indirect
 	github.com/oracle/oci-go-sdk/v65 v65.50.0 // indirect
 	github.com/parnurzeal/gorequest v0.2.16 // indirect
